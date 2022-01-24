@@ -5,16 +5,16 @@ Please follow the following steps to run the application
 
 Step 1 - Install node modules using following command after downloading the repository 
 
-npm install
+         npm install
 
 Step 2 - Install bootstrap and reactstrap using the following command line
 
-npm i bootstrap
+         npm i bootstrap
 
-npm i reactstrap folderLocation folderName
+         npm i reactstrap folderLocation folderName
 
 Step 3 - Please start the apllication using the following command 
 
-npm start
+         npm start
 
 Google drive link for the video demo : 
